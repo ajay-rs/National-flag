@@ -1,0 +1,29 @@
+#orange{
+        background:#FF671F;
+        width:400px;
+        height:100px;
+         border:1px solid black;
+       }
+#white{
+        background:white;
+        width:400px;
+        height:100px;
+         border:1px solid black;
+       }
+#blue{
+        background:#046A38;
+        width:400px;
+        height:100px;
+         border:1px solid black;
+       }
+
+#d1 img{
+        width:100px;
+        height:100px;       
+        }
+#d1{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    border:1px solid black;
+}
